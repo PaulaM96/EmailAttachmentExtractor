@@ -26,7 +26,7 @@ A tool to automate the extraction of attachments from `.msg` email files, includ
    git clone https://github.com/your-username/EmailAttachmentExtractor.git
    cd EmailAttachmentExtractor
    pip install -r requirements.txt
-   ´´´
+   
 
 2. Ensure the correct setup of the extraction paths as per your requirements in the script.
 
